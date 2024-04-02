@@ -11,9 +11,10 @@ Word Counting: The program counts the total number of words in the input text or
 Unique Words Count: It also calculates the number of unique words present in the input.
 Word Frequency: Additionally, the program displays the frequency of each word in the input text or file.
 Input Validation: The program validates user inputs and handles file not found exceptions gracefully.
-
-
 **Output**
+
+
+
 <img width="362" alt="image" src="https://github.com/LEKHASELVARAJU/countword/assets/108514177/8e4dfd64-1d35-493c-8c45-e03cc0e119e8">
 
 <img width="365" alt="image" src="https://github.com/LEKHASELVARAJU/countword/assets/108514177/6f5a27ff-064f-4ba1-b071-bc86fa627301">
